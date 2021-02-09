@@ -2,5 +2,5 @@
   diseño : título de la diapositiva
  : "¡ Bienvenidos a la segunda página! "
 ---
-Tu texto 
+Santiago developer modifico esta linea
 Utiliza la flecha hacia la izquierda para volver!
